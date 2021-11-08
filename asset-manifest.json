@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/static/js/main.19bb6434.chunk.js",
-    "main.js.map": "/static/js/main.19bb6434.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.3779852c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.3779852c.js.map",
-    "static/css/2.383c0125.chunk.css": "/static/css/2.383c0125.chunk.css",
-    "static/js/2.ac55720d.chunk.js": "/static/js/2.ac55720d.chunk.js",
-    "static/js/2.ac55720d.chunk.js.map": "/static/js/2.ac55720d.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.383c0125.chunk.css.map": "/static/css/2.383c0125.chunk.css.map",
-    "static/js/2.ac55720d.chunk.js.LICENSE.txt": "/static/js/2.ac55720d.chunk.js.LICENSE.txt"
+    "main.js": "/automatic-rotary-phone/static/js/main.19bb6434.chunk.js",
+    "main.js.map": "/automatic-rotary-phone/static/js/main.19bb6434.chunk.js.map",
+    "runtime-main.js": "/automatic-rotary-phone/static/js/runtime-main.f34afe2e.js",
+    "runtime-main.js.map": "/automatic-rotary-phone/static/js/runtime-main.f34afe2e.js.map",
+    "static/css/2.383c0125.chunk.css": "/automatic-rotary-phone/static/css/2.383c0125.chunk.css",
+    "static/js/2.ac55720d.chunk.js": "/automatic-rotary-phone/static/js/2.ac55720d.chunk.js",
+    "static/js/2.ac55720d.chunk.js.map": "/automatic-rotary-phone/static/js/2.ac55720d.chunk.js.map",
+    "index.html": "/automatic-rotary-phone/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/automatic-rotary-phone/static/css/2.383c0125.chunk.css.map",
+    "static/js/2.ac55720d.chunk.js.LICENSE.txt": "/automatic-rotary-phone/static/js/2.ac55720d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3779852c.js",
+    "static/js/runtime-main.f34afe2e.js",
     "static/css/2.383c0125.chunk.css",
     "static/js/2.ac55720d.chunk.js",
     "static/js/main.19bb6434.chunk.js"
